@@ -31,4 +31,4 @@ be removed are:
 * libcxx=4.0.1
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/faiz-hub/fz-exercise.git/binder)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/faiz-hub/fz-exercise.git/HEAD)
